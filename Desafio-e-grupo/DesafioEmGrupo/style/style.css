@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.image_header{
+    height: 30px;
+}
+
+
+
+header{
+    height: 90px;
+    
+    display:flex;
+}
+
+/* .nav_header{ */
+    /* display: flex;
+    justify-content: center;
+    border: solid 2px black;
+}
+
+ */
+
+ nav{
+    border: 2px solid black;
+    height: 200px;
+    width: 500px;
+ }
+
+ body{
+    border: 2px solid black;
+ }
+
